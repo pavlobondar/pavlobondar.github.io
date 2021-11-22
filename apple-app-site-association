@@ -3,11 +3,11 @@
         "apps": [],
         "details": [
             {
-                "appID": "4489GFKQZ2.com.superfy.yh",
+                "appID": "4489GFKQZ2.com.superfy.baby",
                 "paths": ["*"],
             },
             {
-                "appID": "4489GFKQZ2.com.superfy.baby",
+                "appID": "4489GFKQZ2.com.superfy.yh",
                 "paths": ["*"],
             },
             {
