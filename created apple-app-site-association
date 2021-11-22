@@ -1,0 +1,19 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "4489GFKQZ2.com.superfy.yh",
+                "paths": ["*"],
+            },
+            {
+                "appID": "4489GFKQZ2.com.superfy.baby",
+                "paths": ["*", "/"],
+            },
+            {
+                "appID": "4489GFKQZ2.com.superfy.stage",
+                "paths": ["*"],
+            }
+        ]
+    }
+}
